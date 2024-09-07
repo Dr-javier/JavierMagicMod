@@ -1,7 +1,0 @@
-4 abilities and 4 types before release
-
-
-Fire
-1	---triple fireball, spawns 3 fireballs (less if low mana) around player within a random radius then after waiting 		around a 	second shoots them at the cursor position (maybe charging to increase fireball amount or size then on 		mouse release fire)
-2	---
-
