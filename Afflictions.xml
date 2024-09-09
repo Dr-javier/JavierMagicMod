@@ -1,7 +1,7 @@
 <Afflictions>
     <affliction
     name="Mana"
-    identifier="manaaaaaaa"
+    identifier="manaaaaaaaaa"
     limbspecific="false"
     indicatorlimb="Torso"
     maxstrength="1000" >
